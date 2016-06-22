@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D980A76531C058BF174B2B46B98A157AFE273603",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D980A76531C058BF174B2B46B98A157AFE273603" : 0,
+    "433214C83F76A65D9ED4480F33356EBDDF66A814" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2A93E457-BE43-4BFB-BF70-67664BF45F77",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D980A76531C058BF174B2B46B98A157AFE273603" : "HummingBird-IOS\/",
+    "433214C83F76A65D9ED4480F33356EBDDF66A814" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HummingBird",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HummingBird.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HummB\/Bird.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "433214C83F76A65D9ED4480F33356EBDDF66A814"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HummingBirdConnect\/iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D980A76531C058BF174B2B46B98A157AFE273603"
+    }
+  ]
+}
